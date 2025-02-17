@@ -1,5 +1,7 @@
-
-## Update Business
+---
+sidebar_position: 3
+---
+# Update Business
 - **Method:** PUT  
 - **Endpoint:** `/setup/business`  
 - **Body:** Business object with only edit-supported fields. Any other field will be ignored.  

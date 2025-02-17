@@ -1,5 +1,8 @@
-# Business
-A business is a signed-up organization.
+---
+sidebar_position: 1
+---
+# Object Model 
+
 
 ### Object Model
 ```json

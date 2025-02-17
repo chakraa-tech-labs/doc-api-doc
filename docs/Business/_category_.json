@@ -1,0 +1,8 @@
+{
+  "label": "Business",
+  "position": 2,
+  "link": {
+    "description": "A business is a signed-up organization.",
+    "type": "generated-index"
+  }
+}

@@ -1,7 +1,5 @@
 ---
-id: get_business
-title: Get Business
-sidebar_label: Get Business
+sidebar_position: 2
 ---
 ## Get Business
 After the user signs up or logs in, the client should make this request to check if sign-up is proper.

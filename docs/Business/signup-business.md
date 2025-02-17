@@ -1,3 +1,6 @@
+---
+sidebar_position: 2
+---
 # Sign Up Business
 If the above error response is received, the client should prompt for completing the sign-up, asking for mandatory information, and then make the following request to complete the sign-up.
 

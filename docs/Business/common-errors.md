@@ -1,3 +1,6 @@
+---
+sidebar_position: 4
+---
 
 # Common Errors
 Below are the errors that can occur in any of the APIs, in addition to specific error cases mentioned for individual APIs.
